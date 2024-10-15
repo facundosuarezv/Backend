@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CalculadoraApi.props" />
+</Project>
