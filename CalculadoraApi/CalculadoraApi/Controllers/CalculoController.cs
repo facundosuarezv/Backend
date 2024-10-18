@@ -17,6 +17,11 @@ public class CalculoController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<Calculo>> PostCalculo(Calculo calculo)
     {
+        if (calculo.Operacion == "division" && calculo.Operando2 == 0)
+        {
+            return BadRequest("Error: No se puede dividir por cero");
+        }
+
         var resultado = calculo.Resultado;
 
         _context.Calculos.Add(calculo);

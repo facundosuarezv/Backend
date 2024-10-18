@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\dotnet\\CalculadoraApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\facundosuarezv\\dotnet-react\\CalculadoraApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|c:\\users\\administrator\\documents\\github\\dotnet\\calculadoraapi\\calculadoraapi\\controllers\\calculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|solutionrelative:calculadoraapi\\controllers\\calculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|c:\\users\\administrator\\source\\repos\\facundosuarezv\\dotnet-react\\calculadoraapi\\calculadoraapi\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|solutionrelative:calculadoraapi\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|c:\\users\\administrator\\documents\\github\\dotnet\\calculadoraapi\\calculadoraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|c:\\users\\administrator\\source\\repos\\facundosuarezv\\dotnet-react\\calculadoraapi\\calculadoraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|solutionrelative:calculadoraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|c:\\users\\administrator\\documents\\github\\dotnet\\calculadoraapi\\calculadoraapi\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|solutionrelative:calculadoraapi\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|c:\\users\\administrator\\source\\repos\\facundosuarezv\\dotnet-react\\calculadoraapi\\calculadoraapi\\controllers\\calculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|solutionrelative:calculadoraapi\\controllers\\calculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|c:\\users\\administrator\\source\\repos\\facundosuarezv\\dotnet-react\\calculadoraapi\\calculadoraapi\\models\\calculadoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|solutionrelative:calculadoraapi\\models\\calculadoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CalculoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\dotnet\\CalculadoraApi\\CalculadoraApi\\Controllers\\CalculoController.cs",
-              "RelativeDocumentMoniker": "CalculadoraApi\\Controllers\\CalculoController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\dotnet\\CalculadoraApi\\CalculadoraApi\\Controllers\\CalculoController.cs",
-              "RelativeToolTip": "CalculadoraApi\\Controllers\\CalculoController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:44:04.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calculo.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\dotnet\\CalculadoraApi\\CalculadoraApi\\Models\\Calculo.cs",
-              "RelativeDocumentMoniker": "CalculadoraApi\\Models\\Calculo.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\dotnet\\CalculadoraApi\\CalculadoraApi\\Models\\Calculo.cs",
-              "RelativeToolTip": "CalculadoraApi\\Models\\Calculo.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T21:24:34.657Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\dotnet\\CalculadoraApi\\CalculadoraApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\facundosuarezv\\dotnet-react\\CalculadoraApi\\CalculadoraApi\\Program.cs",
               "RelativeDocumentMoniker": "CalculadoraApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\dotnet\\CalculadoraApi\\CalculadoraApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\facundosuarezv\\dotnet-react\\CalculadoraApi\\CalculadoraApi\\Program.cs",
               "RelativeToolTip": "CalculadoraApi\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAswDsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T18:42:09.699Z",
+              "WhenOpened": "2024-10-16T23:20:48.284Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\facundosuarezv\\dotnet-react\\CalculadoraApi\\CalculadoraApi\\Models\\Calculo.cs",
+              "RelativeDocumentMoniker": "CalculadoraApi\\Models\\Calculo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\facundosuarezv\\dotnet-react\\CalculadoraApi\\CalculadoraApi\\Models\\Calculo.cs",
+              "RelativeToolTip": "CalculadoraApi\\Models\\Calculo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:23:35.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculadoraContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\facundosuarezv\\dotnet-react\\CalculadoraApi\\CalculadoraApi\\Models\\CalculadoraContext.cs",
+              "RelativeDocumentMoniker": "CalculadoraApi\\Models\\CalculadoraContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\facundosuarezv\\dotnet-react\\CalculadoraApi\\CalculadoraApi\\Models\\CalculadoraContext.cs",
+              "RelativeToolTip": "CalculadoraApi\\Models\\CalculadoraContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:21:37.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\facundosuarezv\\dotnet-react\\CalculadoraApi\\CalculadoraApi\\Controllers\\CalculoController.cs",
+              "RelativeDocumentMoniker": "CalculadoraApi\\Controllers\\CalculoController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\facundosuarezv\\dotnet-react\\CalculadoraApi\\CalculadoraApi\\Controllers\\CalculoController.cs",
+              "RelativeToolTip": "CalculadoraApi\\Controllers\\CalculoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:44:04.934Z"
             }
           ]
         }

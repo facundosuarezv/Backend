@@ -15,10 +15,10 @@ namespace CalculadoraApi.Models
         {
             get
             { return Operacion.ToLower() switch
-            { "suma" => Operando1 + Operando2,
-                "resta" => Operando1 - Operando2,
-                "multiplicacion" => Operando1 * Operando2,
-                "division" => Operando2 != 0 ? Operando1 / Operando2 : throw new DivideByZeroException("El divisor no puede ser cero"),
+            {   "+" => Operando1 + Operando2,
+                "-" => Operando1 - Operando2,
+                "*" => Operando1 * Operando2,
+                "/" => Operando1 / Operando2,
                 _ => throw new InvalidOperationException("Operacion invalida")
             };
             }
