@@ -1,0 +1,42 @@
+# Ignorar archivos generados por Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorar archivos de compilación
+bin/
+obj/
+out/
+
+# Ignorar paquetes NuGet descargados
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Ignorar logs y archivos de lock
+*.log
+*.lock
+
+# Ignorar configuraciones locales y temporales
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Ignorar archivos de Entity Framework Migrations
+Migrations/
+
+# Ignorar archivos temporales de OS
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de publish y deployment
+publish/
+wwwroot/
+dist/
+
+# Ignorar archivos de seguridad
+secrets.json
