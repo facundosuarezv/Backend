@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\f.suarez.viguera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\f.suarez.viguera\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,28 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
