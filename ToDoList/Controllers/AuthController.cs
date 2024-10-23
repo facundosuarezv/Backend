@@ -53,7 +53,6 @@ namespace ToDoList.Controllers
 
     public class LoginModel
     {
-        // Propiedades requeridas para evitar problemas de nulabilidad
         public required string Username { get; set; }
         public required string Password { get; set; }
     }
