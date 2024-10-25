@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d5b583a904047e69730be44457df50a6c24243f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1e93622fc3406c32e94d1ba6fc1861dc19fd912")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

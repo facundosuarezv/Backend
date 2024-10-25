@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\CalculadoraApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\CalculadoraApi\\CalculadoraApi\\Controllers\\CalculoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculadoraApi\\Controllers\\CalculoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|c:\\users\\f.suarez.viguera\\documents\\github\\backend\\calculadoraapi\\calculadoraapi\\controllers\\calculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|solutionrelative:calculadoraapi\\controllers\\calculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\f.suarez.viguera\\Documents\\GitHub\\Backend\\CalculadoraApi\\CalculadoraApi\\Models\\CalculadoraContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalculadoraApi\\Models\\CalculadoraContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|c:\\users\\f.suarez.viguera\\documents\\github\\backend\\calculadoraapi\\calculadoraapi\\models\\calculadoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3951A4-37E9-46E8-AEB0-529A119CB60F}|CalculadoraApi\\CalculadoraApi.csproj|solutionrelative:calculadoraapi\\models\\calculadoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
