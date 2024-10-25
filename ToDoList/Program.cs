@@ -50,10 +50,11 @@ else
     app.UseHsts();
 }
 
+    app.UseCors("AllowAll");
     app.UseHttpsRedirection();
     app.UseAuthentication();
     app.UseAuthorization();
-    app.UseCors("AllowAll");
+
 
     app.MapControllers();
 

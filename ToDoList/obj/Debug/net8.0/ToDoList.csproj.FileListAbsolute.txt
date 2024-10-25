@@ -268,3 +268,4 @@ C:\Users\f.suarez.viguera\Documents\GitHub\Backend\ToDoList\obj\Debug\net8.0\ref
 C:\Users\f.suarez.viguera\Documents\GitHub\Backend\ToDoList\obj\Debug\net8.0\ToDoList.pdb
 C:\Users\f.suarez.viguera\Documents\GitHub\Backend\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
 C:\Users\f.suarez.viguera\Documents\GitHub\Backend\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
+C:\Users\f.suarez.viguera\Documents\GitHub\Backend\ToDoList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
