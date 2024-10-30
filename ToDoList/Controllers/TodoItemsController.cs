@@ -37,9 +37,9 @@ namespace ToDoList.Controllers
         [HttpPost]
         public async Task<ActionResult<TodoItem>> PostTodoItem(TodoItem todoItem)
         {
-            if (string.IsNullOrEmpty(todoItem.Title) || todoItem.Title.Length > 100)
+            if (string.IsNullOrEmpty(todoItem.Description) || todoItem.Description.Length > 100)
             {
-                return BadRequest("El titulo es obligatorio y debe tner menos de 100 caracteres.");
+                return BadRequest("La descripcion es obligatoria y debe tner menos de 100 caracteres.");
             }
 
             _todoContext.TodoItems.Add(todoItem);
