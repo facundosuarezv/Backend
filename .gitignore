@@ -6,10 +6,13 @@
 *.userosscache
 *.sln.docstates
 
-# Ignorar archivos de compilación
+# Ignorar archivos de compilaciï¿½n
 bin/
 obj/
 out/
+**bin/
+**obj/
+**out/
 
 # Ignorar paquetes NuGet descargados
 *.nupkg
