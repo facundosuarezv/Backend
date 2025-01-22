@@ -14,11 +14,11 @@ namespace Data
         {
         }
 
-        public DbSet<User> Usuarios { get; set; }
-        public DbSet<Product> Productos { get; set; }
+        public DbSet<Users> Usuarios { get; set; }
+        public DbSet<Products> Productos { get; set; }
         public DbSet<Sells> Ventas { get; set; }
-        public DbSet<SellDetail> DetalleVentas { get; set; }
-        public DbSet<StockMovement> MovimientosStock { get; set; }
+        public DbSet<SellDetails> DetalleVentas { get; set; }
+        public DbSet<StockMovements> MovimientosStock { get; set; }
 
     }
 }

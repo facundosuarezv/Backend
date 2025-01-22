@@ -12,6 +12,6 @@ namespace Models.Entidades
         public DateTime Fecha { get; set; } = DateTime.Now;
         public decimal Total { get; set; }
 
-        public List<SellDetail> Detalles { get; set; }
+        public List<SellDetails> Detalles { get; set; }
     }
 }

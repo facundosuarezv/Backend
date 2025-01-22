@@ -18,9 +18,9 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public ActionResult<IEnumerable<User>> GetUsuarios()
+        public async Task<ActionResult<IEnumerable<Users>>> GetUsuarios()
         {
-            var usuarios = _context.Usuarios.ToList();
+            var usuarios = await _context.Usuarios.ToListAsync();
 
             if (!usuarios.Any())
             {
@@ -31,21 +31,21 @@ namespace API.Controllers
         }
 
         [HttpGet("{id}")]
-        public ActionResult<User> GetUsuario(int id)
+        public async Task<ActionResult<Users>> GetUsuario(int id)
         {
             if (id <= 0)
             {
-                return BadRequest("ID inválido."); 
+                return BadRequest("ID inválido.");
             }
 
-            var usuario = _context.Usuarios.FirstOrDefault(u => u.Id == id);
+            var usuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.Id == id);
 
             if (usuario == null)
             {
-                return NotFound($"Usuario con ID {id} no encontrado."); 
+                return NotFound($"Usuario con ID {id} no encontrado.");
             }
 
-            return Ok(usuario); 
+            return Ok(usuario);
         }
 
     }

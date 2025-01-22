@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models.Entidades
 {
-    public class StockMovement
+    public class StockMovements
     {
         public int Id { get; set; }
         public int ProductId { get; set; }
@@ -14,6 +14,6 @@ namespace Models.Entidades
         public int Quantity { get; set; }
         public DateTime Fecha { get; set; } = DateTime.Now;
 
-    public Product Producto { get; set; }
+    public Products Producto { get; set; }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models.Entidades
 {
-    public class SellDetail
+    public class SellDetails
     {
         public int Id { get; set; }
         public int SellId { get; set; }
@@ -15,7 +15,7 @@ namespace Models.Entidades
         public decimal Price { get; set; }
         public decimal Total { get; set; }
 
-        public Product Product { get; set; }
+        public Products Product { get; set; }
         public Sells Sell { get; set; }
     }
 }
