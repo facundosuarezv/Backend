@@ -5,9 +5,7 @@ using Models.Entidades;
 
 namespace API.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class ProductController : Controller
+    public class ProductController : BaseApiController
     {
         private readonly ApplicationDbContext _context;
 

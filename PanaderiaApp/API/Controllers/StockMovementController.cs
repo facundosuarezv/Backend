@@ -4,11 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using Models.Entidades;
 
 namespace API.Controllers
-
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class StockMovementController : Controller
+    public class StockMovementController : BaseApiController
     {
         private readonly ApplicationDbContext _context;
 
